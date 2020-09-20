@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/swiflearnassign/static/css/main.4ec64df1.chunk.css",
+    "main.js": "/swiflearnassign/static/js/main.f36d1866.chunk.js",
+    "main.js.map": "/swiflearnassign/static/js/main.f36d1866.chunk.js.map",
+    "runtime-main.js": "/swiflearnassign/static/js/runtime-main.fe70e6c6.js",
+    "runtime-main.js.map": "/swiflearnassign/static/js/runtime-main.fe70e6c6.js.map",
+    "static/js/2.03cc669b.chunk.js": "/swiflearnassign/static/js/2.03cc669b.chunk.js",
+    "static/js/2.03cc669b.chunk.js.map": "/swiflearnassign/static/js/2.03cc669b.chunk.js.map",
+    "index.html": "/swiflearnassign/index.html",
+    "precache-manifest.1b39732c2b6a2dfc05c9b2eed6ac623c.js": "/swiflearnassign/precache-manifest.1b39732c2b6a2dfc05c9b2eed6ac623c.js",
+    "service-worker.js": "/swiflearnassign/service-worker.js",
+    "static/css/main.4ec64df1.chunk.css.map": "/swiflearnassign/static/css/main.4ec64df1.chunk.css.map",
+    "static/js/2.03cc669b.chunk.js.LICENSE.txt": "/swiflearnassign/static/js/2.03cc669b.chunk.js.LICENSE.txt",
+    "static/media/live.ico": "/swiflearnassign/static/media/live.6544b101.ico",
+    "static/media/youtube.webp": "/swiflearnassign/static/media/youtube.4aac3d23.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe70e6c6.js",
+    "static/js/2.03cc669b.chunk.js",
+    "static/css/main.4ec64df1.chunk.css",
+    "static/js/main.f36d1866.chunk.js"
+  ]
+}
